@@ -21,7 +21,7 @@ export const ContactInfo = () => {
 						<Icon icon={faEnvelope} /> rollingvetconsultas@rollingvet.com
 					</p>
 					<p className='contet-contact'>
-						<Icon icon={faLocationDot} /> General Paz 576
+						<Icon icon={faLocationDot} /> Bucarmanga Santander
 					</p>
 				</div>
 			</div>
