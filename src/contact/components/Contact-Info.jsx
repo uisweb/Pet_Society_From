@@ -18,7 +18,7 @@ export const ContactInfo = () => {
 						WhatsApp <Icon icon={faWhatsapp} /> +54 381 1234567
 					</p>
 					<p className='contet-contact'>
-						<Icon icon={faEnvelope} /> rollingvetconsultas@rollingvet.com
+						<Icon icon={faEnvelope} /> petsociety@rollingvet.com
 					</p>
 					<p className='contet-contact'>
 						<Icon icon={faLocationDot} /> Bucarmanga Santander
